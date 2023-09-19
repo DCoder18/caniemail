@@ -80,7 +80,7 @@ stats: {
     },
     thunderbird: {
         macos: {
-            "102.10.1":"u"
+            "2023-09":"y"
         }
     },
     aol: {
@@ -143,17 +143,17 @@ stats: {
     },
     t-online-de: {
         desktop-webmail: {
-            "2023-09": "u"
+            "2023-09": "n"
         }
     },
     gmx: {
         desktop-webmail: {
-            "2023-09": "u"
+            "2023-09": "y"
         }
     },
     web-de: {
         desktop-webmail: {
-            "2023-09": "u"
+            "2023-09": "y"
         }
     }
 }
